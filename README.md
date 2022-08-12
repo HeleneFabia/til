@@ -7,9 +7,9 @@ Props to [thoughtbot/til](https://github.com/thoughtbot/til) for the original id
 
 ## Bash
 
-- copy the output of a command: `... | yank`
-- interactively explore a folder's content: `ncdu foldername`
-- filter the output of a command in a regex-like way: `... | grep -i ...` (`-i` stands for case insensitive)
+- [yank]() copy the output of a command: `... | yank`
+- [ncdu]() interactively explore a folder's content: `ncdu foldername`
+- [grep]() filter the output of a command in a regex-like way: `... | grep -i ...` (`-i` stands for case insensitive)
 
 ## Git
 
