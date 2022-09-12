@@ -1,4 +1,4 @@
-# TIL - Today I Learned (2022–ongoing)
+# Today I Learned (2022–ongoing)
 
 ## Command Line
 
